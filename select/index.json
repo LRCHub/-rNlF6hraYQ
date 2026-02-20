@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ぼうやの夢よ",
+  "base_artist": "エミリア（CV:高橋李依）",
+  "createdAt": "2026-02-20T04:26:22.589591Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "オーイシマサヨシ",
+      "has_synced": true,
+      "path": "select/01_ぼうやの夢よ_オーイシマサヨシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/02_ぼうやの夢よ_エミリア(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/03_ぼうやの夢よ_エミリア(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/04_ぼうやの夢よ_エミリア(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/05_ぼうやの夢よ_エミリア(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア; 高橋李依",
+      "has_synced": true,
+      "path": "select/06_ぼうやの夢よ_エミリア;_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "高橋李依",
+      "has_synced": true,
+      "path": "select/07_ぼうやの夢よ_高橋李依.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア",
+      "has_synced": true,
+      "path": "select/08_ぼうやの夢よ_エミリア.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/09_ぼうやの夢よ_エミリア(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ぼうやの夢よ",
+      "artist": "EMILIA(CV:RIE TAKAHASHI)",
+      "has_synced": false,
+      "path": "select/10_ぼうやの夢よ_EMILIA(CV_RIE_TAKAHASHI).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼうやの夢よ",
+      "artist": "エミリア (高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_ぼうやの夢よ_エミリア_(高橋李依).txt"
+    }
+  ]
+}
